@@ -1,0 +1,1 @@
+["```java\r\nRouterFunction<String> route =\r\n    route(GET(\"/hello-world\"),\r\n    request -> Response.ok().body(fromObject(\"Hello World\")));\r\n\r\n```"]
