@@ -16,20 +16,10 @@
 
 ## 目录
 
-+   [安卓](docs/android/SUMMARY.md)
-+   [大数据](docs/bigdata/SUMMARY.md)
-+   [构建工具](docs/build/SUMMARY.md)
-+   [数据库](docs/db/SUMMARY.md)
-+   [开发环境](docs/env/SUMMARY.md)
 +   [Java 核心](docs/java/SUMMARY.md)
-+   [JMS](docs/jms/SUMMARY.md)
-+   [日志](docs/logging/SUMMARY.md)
-+   [杂项](docs/misc/SUMMARY.md)
-+   [REST API](docs/rest/SUMMARY.md)
-+   [脚本](docs/script/SUMMARY.md)
++   [杂项 1](docs/misc1/SUMMARY.md)
++   [杂项 2](docs/misc2/SUMMARY.md)
 +   [Spring](docs/spring/SUMMARY.md)
-+   [单元测试](docs/test/SUMMARY.md)
-+   [XML 和 JSON](docs/xml/SUMMARY.md)
 
 ## 联系方式
 
