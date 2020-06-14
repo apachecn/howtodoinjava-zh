@@ -26,7 +26,7 @@
 +   [JAXB 教程](28.md)
     +   [JAXB 注解](29.md)
     +   [JAXB `@XmlRootElement`注解示例](30.md)
-    +   [JAXB `@XmlElementWrapper`注释示例](31.md)
+    +   [JAXB `@XmlElementWrapper`注解示例](31.md)
     +   [JAXB `Marshaller`（编组器）示例](32.md)
     +   [JAXB `Unmarshaller`（解组器）示例](33.md)
     +   [JAXB 读取 XML 到 Java 对象的示例](34.md)
